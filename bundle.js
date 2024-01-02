@@ -1,6 +1,4 @@
-import React, { useState, useCallback } from 'react';
 /*! For license information please see bundle.js.LICENSE.txt */
-
 (()=>{
     "use strict";
     var e = {
@@ -9115,9 +9113,7 @@ import React, { useState, useCallback } from 'react';
         p()(E.Z, C),
         E.Z && E.Z.locals && E.Z.locals,
         n.createRoot(document.getElementById("root")).render(e.createElement(f, null))
-   
     }
     )()
-
 }
 )();
